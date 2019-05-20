@@ -1,6 +1,6 @@
 def fizzbuzz(int)
   int == number
-  if int (% 3 == 0) && (% 5 == 0) # if the number int is divisible by 3 & 5
+  if int(% 3 == 0) && (% 5 == 0) # if the number int is divisible by 3 & 5
     return "FizzBuzz" 
   
   elsif int % 5 == 0 # if the number int is divisible by 5
